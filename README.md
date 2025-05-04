@@ -1,3 +1,7 @@
+❤️**# About TenthDollar**
+TenthDollar is a global freelance marketplace where startups, small businesses, and entrepreneurs can hire top talent starting at just $10.
+
+From developers to designers, analysts to content writers — we help you get the job done without overspending.
 # Freelance Job Board API
 
 A simple, open-source API for posting and browsing freelance gigs. Ideal for developers, startups, and agencies looking to integrate a job listing system.
@@ -13,7 +17,14 @@ A simple, open-source API for posting and browsing freelance gigs. Ideal for dev
 
 ## Wordpress Web Developer
 
-Check out the working demo here: [https://tenthdollar.com/categories/programming-tech/wordpress-web-development](https://tenthdollar.com/categories/programming-tech/wordpress-web-development)
+Check out the working demo here: [Freeelance Wordpress Developers](https://tenthdollar.com/categories/programming-tech/wordpress-web-development)
+
+
+## Hire Programmers and Developers
+
+Check out the working demo here: [Hire Programmers and Developers](https://tenthdollar.com/categories/programming-tech)
+
+
 
 ## Contribute
 
@@ -23,4 +34,9 @@ Have suggestions or improvements? Feel free to open an issue or submit a pull re
 
 Want to find top freelancers starting at just $10?  
 ➡️ [Visit TenthDollar.com](https://tenthdollar.com) – The smarter way to hire.
+
+🤝 Contribute
+We welcome pull requests, ideas, and community contributions! Fork this repo, make your improvements, and open a PR.
+
+If you're a developer looking to collaborate with other professionals or get hired, check out our platform and showcase your work.
 
